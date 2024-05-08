@@ -1,30 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  margin-left: 200px;
-  background: #5d9ab2 url("img_tree.png") no-repeat top left;
-}
+<script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
+<script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.7.5/aframe/build/aframe-ar.js"></script>
 
-.center_div {
-  border: 1px solid gray;
-  margin-left: auto;
-  margin-right: auto;
-  width: 90%;
-  background-color: #d0f0f6;
-  text-align: left;
-  padding: 8px;
-}
-</style>
-</head>
-<body>
-
-<div class="center_div">
-  <h1>Hello World!</h1>
-  <p>This example contains some advanced CSS methods you may not have learned yet. But, we will explain these methods in a later chapter in the tutorial.</p>
-</div>
-
+<body style='margin : 0px; overflow: hidden;'>
+  <a-scene embedded arjs='sourceType: webcam; debugUIEnabled: false;'>
+    <a-marker type='pattern' url='assets/pattern-marker.patt'>
+      <a-entity position='0 0 -1' rotation="270 0 0" scale="0.5 0.5 0.5" gltf-model="url(assets/model.gltf)"></a-entity>
+    </a-marker>
+  </a-scene>
 </body>
-</html>
-
