@@ -1,0 +1,11 @@
+Model Information:
+* title:	Futuristic Wing
+* source:	https://sketchfab.com/3d-models/futuristic-wing-2507c9657798457aa454dbe72f121726
+* author:	Chupaxu (https://sketchfab.com/harveyandrada50)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Futuristic Wing" (https://sketchfab.com/3d-models/futuristic-wing-2507c9657798457aa454dbe72f121726) by Chupaxu (https://sketchfab.com/harveyandrada50) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
