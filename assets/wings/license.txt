@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wings
+* source:	https://sketchfab.com/3d-models/wings-b87ade1326394cc0b6aeddc1087a012c
+* author:	Yuki V19 (https://sketchfab.com/whitemoonv19)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wings" (https://sketchfab.com/3d-models/wings-b87ade1326394cc0b6aeddc1087a012c) by Yuki V19 (https://sketchfab.com/whitemoonv19) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
